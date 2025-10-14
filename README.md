@@ -53,9 +53,6 @@ src/
 └── test/
 └── Main.java
 
-yaml
-Copiar código
-
 ---
 
 ## ⚙️ Instruções de Execução
