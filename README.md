@@ -66,8 +66,6 @@ Compile e execute a classe Main.
 
 Saída esperada (exemplo):
 
-yaml
-Copiar código
 Marca: Honda
 Modelo: Civic
 Ano: 2020
@@ -83,10 +81,10 @@ O código está organizado em pacotes (domain e test) para melhor estruturação
 
 Cada classe segue os princípios da Programação Orientada a Objetos:
 
--Abstração
--Herança
--Encapsulamento
--Polimorfismo (por sobrescrita de método)
+-Abstração,
+Herança,
+Encapsulamento,
+Polimorfismo (por sobrescrita de método)
 
 Universidade Luterana do Brasil (ULBRA)
 Disciplina: Programação Orientada a Objetos
